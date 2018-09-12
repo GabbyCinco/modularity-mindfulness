@@ -14,3 +14,12 @@ li {
   border-top: 0;
   border-right: 0;
 }
+
+.border-tb {
+  border-style: solid;
+  border-color: #e2e2e2;
+  border-top-width: 2px;
+  border-bottom-width: 2px;
+  border-left: 0;
+  border-right: 0;
+}
