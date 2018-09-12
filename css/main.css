@@ -1,3 +1,16 @@
 html {
   font-family: 'Noto Sans', sans-serif;
 }
+
+.jp-font {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+li {
+  border-style: solid;
+  border-color: #8bc9d9;
+  border-bottom-width: 2px;
+  border-left: 0;
+  border-top: 0;
+  border-right: 0;
+}
