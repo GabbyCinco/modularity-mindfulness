@@ -9,17 +9,36 @@ html {
 li {
   border-style: solid;
   border-color: #8bc9d9;
-  border-bottom-width: 2px;
-  border-left: 0;
-  border-top: 0;
-  border-right: 0;
+  border-width: 0 0 2px;
+}
+
+a {
+  color: #005e76;
+}
+
+a:hover {
+  color: #000;
 }
 
 .border-tb {
   border-style: solid;
   border-color: #e2e2e2;
-  border-top-width: 2px;
-  border-bottom-width: 2px;
-  border-left: 0;
-  border-right: 0;
+  border-width: 2px 0 2px;
+}
+
+.btn-ghost {
+  border-color: #8bc9d9;
+  color: #0084a6;
+}
+
+.btn:hover {
+  background-color: #005e76;
+  color: #e2e2e2;
+  border-color: #005e76;
+}
+
+footer {
+  border-style: solid;
+  border-color: #e2e2e2;
+  border-width: 2px 0 0;
 }
