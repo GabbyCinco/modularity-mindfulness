@@ -12,6 +12,10 @@ li {
   border-width: 0 0 2px;
 }
 
+li:hover {
+  border-color: #000;
+}
+
 a {
   color: #005e76;
 }
@@ -38,7 +42,14 @@ a:hover {
 }
 
 footer {
+  color: #000;
   border-style: solid;
   border-color: #e2e2e2;
   border-width: 2px 0 0;
+}
+
+@media only screen and (min-width: 38em) {
+
+
+
 }
