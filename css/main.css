@@ -53,3 +53,16 @@ footer {
 
 
 }
+
+
+@media only screen and (min-width: 60em) {
+
+  .title {
+    text-align: left;
+  }
+
+  .list {
+    text-align: right;
+  }
+
+}
