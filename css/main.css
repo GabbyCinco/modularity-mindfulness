@@ -1,9 +1,9 @@
 html {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
 }
 
 .jp-font {
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: "Noto Sans Japanese", sans-serif;
 }
 
 li {
@@ -27,12 +27,12 @@ a:hover {
 .border-tb {
   border-style: solid;
   border-color: #e2e2e2;
-  border-width: 2px 0 2px;
+  border-width: 2px 0;
 }
 
 .btn-ghost {
-  border-color: #8bc9d9;
-  color: #0084a6;
+  border-color: #0084a6;
+  color: #005e76;
 }
 
 .btn:hover {
@@ -47,13 +47,6 @@ footer {
   border-color: #e2e2e2;
   border-width: 2px 0 0;
 }
-
-@media only screen and (min-width: 38em) {
-
-
-
-}
-
 
 @media only screen and (min-width: 60em) {
 
